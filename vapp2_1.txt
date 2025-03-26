@@ -1,0 +1,4 @@
+"AadClientId": "2f77f65f-15c5-4bd8-b78a-ca5d54fea694",
+"AadSecret": "oox8Q~Arm~FHnD2Q6fQ6NFrDJYAMOglJQIUBgbQN",
+"AadTenantDomain": "icpcsec.onmicrosoft.com",
+"AadTenantId": "930d9c1a-61da-4e65-9568-2ff226422f27",
